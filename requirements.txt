@@ -8,4 +8,5 @@ interpret==0.7.8
 shap==0.54.1
 matplotlib
 scipy
+statsmodels==0.15.0
 requests
